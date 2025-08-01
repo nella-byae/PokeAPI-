@@ -18,8 +18,6 @@ Type part of a Pokémon's name and see instant suggestions. Click to view full d
 
 ## 🌐 Live Preview
 
-> (Optional: Add your GitHub Pages or Replit link here)
-
 ## 🛠️ Tech Stack
 
 - HTML
